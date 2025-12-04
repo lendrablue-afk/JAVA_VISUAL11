@@ -1,3 +1,4 @@
+package src;
 public class GameCharacter {          // nama class = nama file
     private String name;
     private int health;
