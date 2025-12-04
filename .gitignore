@@ -1,0 +1,11 @@
+# === JavaFX SDK (jangan upload 100MB+) ===
+javafx-sdk-21.0.9/
+javafx-sdk-*/
+
+# === Compiled class files ===
+*.class
+
+# === VSCode (opsional, boleh di-upload) ===
+# .vscode/
+# !.vscode/launch.json
+# !.vscode/settings.json
